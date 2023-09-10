@@ -31,7 +31,7 @@ Using multiproc.sh with socks4 on a vps
 ## Install
 
     pip3 install requests pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
+    git clone https://github.com/Abdulwasiv/CC-attack.git
     cd CC-attack
 
 ## Usage
